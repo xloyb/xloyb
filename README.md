@@ -25,7 +25,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://mydevify.com/assets/index.494ac568.png" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xloyb&label=Profile%20views&color=0e75b6&style=flat" alt="Louay Bousaadi" /> </p>
 
 ### Code Lifter by Day, Weight Lifter by Night
 -  I'm currently a master of multitasking, dividing my time between university, gym sessions, and devouring online courses like a champ! 💪📚 Catch me flexing in cyberspace or pumping iron between study breaks! :grin:
