@@ -68,6 +68,13 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/xloyb/OpenBlogAI"><b>OpenBlogAI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xloyb/OpenBlogAI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xloyb/OpenBlogAI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xloyb/OpenBlogAI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xloyb/OpenBlogAI?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/xloyb/SocialPulse-React-Node.js-MySQL-Social-Media-App-Full-Stack-Social-Network-App-Open-Source"><b>SocialPulse</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xloyb/SocialPulse-React-Node.js-MySQL-Social-Media-App-Full-Stack-Social-Network-App-Open-Source?style=flat-square&labelColor=343b41"/></td>
